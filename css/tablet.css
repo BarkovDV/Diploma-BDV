@@ -40,7 +40,7 @@ body {
   color: #000000;
   font-weight: 400;
   width: 390px;
-  height: 589px;
+  height: 596px;
   background-color: #ffffff;
   position: relative;
 }
@@ -245,10 +245,10 @@ body {
  }
 
  .hamburger:hover {
-    opacity: 0.6;
-  }
+  opacity: 0.6;
+}
 
- .hamburger-btn {
+.hamburger-btn {
   display: block;
   background: #fff;
   border-radius: 2px;
@@ -927,32 +927,32 @@ h1 a {
  overflow: hidden;
 }
 
-  .social {
+.social {
   list-style: none;
   display: flex;
   align-items: center;
   margin-left: 25px;
-  }
+}
 
-  .social-item {
+.social-item {
   margin-right: 25px;
- }
+}
 
-  .socials-link {
+.socials-link {
   display: inline-block;
   width: 20px;
   height: 30px;
   background-size:25px;
   background-repeat: no-repeat;
   background-position: center; 
-  }
+}
 
-  .styles-year {
+.styles-year {
   display: flex;
   justify-content: center;
-  }
+}
 
-  .styles-year-text {
+.styles-year-text {
   font-size: 12px;
   line-height: 40px;
   color: #999999;
@@ -960,12 +960,12 @@ h1 a {
   margin-top: 54px;
   margin-bottom: 55px;
   overflow: hidden;
-  }
+}
 
-  .copyright {
+.copyright {
   text-decoration: none;
   color: #999999;
-  }
+}
 }
 
 @media (min-width: 941px) and (max-width: 1199px) {
@@ -1026,10 +1026,10 @@ h1 a {
  }
 
  .hamburger:hover {
-    opacity: 0.6;
-  }
+  opacity: 0.6;
+}
 
- .hamburger-btn {
+.hamburger-btn {
   display: block;
   background: #fff;
   border-radius: 2px;
@@ -1747,10 +1747,9 @@ h1 a {
 .copyright {
   text-decoration: none;
   color: #999999;
-}
+ }
 }
 
-}
 
 
 
