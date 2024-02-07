@@ -19,6 +19,7 @@
 
 body {
   font-family: "Open Sans";
+  overflow-x: hidden;
 }
 
 .pop-up {
